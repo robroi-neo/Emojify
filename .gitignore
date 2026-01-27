@@ -1,3 +1,6 @@
 notebook/.ipynb_checkpoints/
 *.pyc
 __pycache__/
+
+notebook/test
+notebook/train
